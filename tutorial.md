@@ -1,6 +1,6 @@
 # My Tutorial
 
-## Step 1 
+## Step 1 @fullscreen
 # Herzlich willkommen
 Allgemeine Einführung
 + Punkt 1

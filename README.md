@@ -2,8 +2,8 @@
 > Diese Seite bei [https://baa-mb.github.io/tutor01/](https://baa-mb.github.io/tutor01/) öffnen
 
 ## Tutorials
-* [Tutorial öffnen:](/tutorial.md) 
-* [Start:](https://makecode.microbit.org/#tutorial:github:baa-mb/tutor01/tutorial)
+* [Tutorial ansehen](/tutorial.md) 
+* [Tutorial starten](https://makecode.microbit.org/#tutorial:github:baa-mb/tutor01/tutorial)
 
 
 ## Als Erweiterung verwenden
