@@ -1,6 +1,6 @@
 # My Tutorial
 
-## Step 1 @Unplugged
+## Step 1 @unplugged
 # Herzlich willkommen
 Allgemeine Einführung
 + Punkt 1
