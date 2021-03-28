@@ -6,7 +6,7 @@ Allgemeine Einführung
 + Punkt 1
 + Punkt 2
 
-## Step 2 @fullscreen
+## Step 2 @showDialog
 Wir starten mit der ersten Aufgabe:
 Beim Start sollte die Zahl 5 dargestellt werden - suche jetzt die Befehle.
 ```blocks
