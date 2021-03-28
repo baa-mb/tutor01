@@ -1,6 +1,6 @@
 # My Tutorial
 
-## Step 1 @fullscreen
+## Step 1 @uunplugged
 # Herzlich willkommen
 Allgemeine Einführung
 + Punkt 1
