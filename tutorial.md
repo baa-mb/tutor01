@@ -10,3 +10,4 @@ Congratulations, you did it!
 
     basic.showNumber(0)
 ```
+<script src="https://makecode.com/gh-pages-embed.js"></script>
