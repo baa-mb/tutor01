@@ -2,7 +2,7 @@
 > Diese Seite bei [https://baa-mb.github.io/tutor01/](https://baa-mb.github.io/tutor01/) öffnen
 
 ## Tutorials
-* [Tutorial](/tutorial)
+* [Tutorial](/tutorial.md)
 
 
 ## Als Erweiterung verwenden
